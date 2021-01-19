@@ -6,5 +6,5 @@ This is a quick repository for the A-State Accelerated Programming class. Use th
 
 ## 1/19/21
 * Exercise 1 Posted - try to finish this before class tomorrow.
-> https://github.com/gilland-astate/accelerated-fall2021/blob/main/assignments/exercises/ex1/ex1.md
+> https://github.com/gilland-astate/accelerated-fall2021/blob/main/assignments/exercises/ex1/
 * Quick Ref guide for VSCode / WSL posted.
