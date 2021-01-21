@@ -36,27 +36,3 @@ int main () {
 
 
 
-
-
-
-
-
-const double EPSILON = 0.0000001;
-double num1, num2;
-num1 = 2.0;
-num2 = 2.0;
-
-if( num1 == num2 ) { // THIS IS INCORRECT
-    double diff = abs(num1 - num2);
-    std::cout << "The numbers are equal."
-}
-if( diff <= EPSILON ) // THIS IS CORRECT
-    std::cout << "The numbers are equal."
-
-
-
-
-
-
-
-
