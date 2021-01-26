@@ -1,4 +1,4 @@
-# Exercise 1
+# Exercise 1 - Simple Input/Output with Arithmetic
 
 Write a simple program that will calculate the time remaining and required gas to reach your destination. 
 
