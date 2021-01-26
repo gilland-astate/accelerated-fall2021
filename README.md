@@ -7,7 +7,8 @@ This is a quick repository for the A-State Accelerated Programming class. Use th
 
 
 ## 1/26/21
-* Exercise 2 uploaded
+* Exercise 2 uploaded.
+* Exercise 3 uploaded.
 
 ## 1/21/21
 * Exercise 1 solution code posted.
