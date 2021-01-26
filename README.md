@@ -1,8 +1,13 @@
 # Accelerated Programming
-### Instructor: Steve Gilland
+> ### Instructor: Steve Gilland
+> ### Email: mgilland@astate.edu
 
+  
 This is a quick repository for the A-State Accelerated Programming class. Use the folders above to view further directories.
 
+
+## 1/26/21
+* Exercise 2 uploaded
 
 ## 1/21/21
 * Exercise 1 solution code posted.
