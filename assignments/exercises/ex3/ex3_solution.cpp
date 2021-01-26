@@ -26,11 +26,3 @@ int main () {
     //      ^^^^^^^^^^^^^^^^^^^^^^^^^^
     //    The average of the exams (as decimal with 1 place)
 }
-
-
-
-
-
-
-
-

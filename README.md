@@ -10,6 +10,7 @@ This is a quick repository for the A-State Accelerated Programming class. Use th
 * Exercise 2 uploaded.
 * Exercise 3 uploaded.
 * Added HW1.
+* Posted solutions for ex2 & ex3.
 
 ## 1/21/21
 * Exercise 1 solution code posted.
