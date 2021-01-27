@@ -12,7 +12,7 @@ int main () {
     
     textFile >> examGrade >> labGrade;
     
-    textFile << (examGrade * 0.7) + (labGrade * 0.3);
+    textFile << (examGrade * 0.7) + (labGrade * 0.3)7;
 
     textFile.close();
 
