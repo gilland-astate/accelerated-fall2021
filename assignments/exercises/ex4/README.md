@@ -1,4 +1,4 @@
-# Exercise 4 - File Input/Output
+# Exercise 4 - File Output
 
 Write a simple program that will compute exam averages writing information to a file. 
 
