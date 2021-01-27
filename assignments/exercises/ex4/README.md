@@ -12,11 +12,13 @@ In the program you will do the following:
     * On the third line output the exam average as a percentage with a single decimal.
 
 >Example of expected output in *grades.txt*:
+
     40 50 60 70
     100 100 100 100
     55.0%
 
 >Example of expected output in *grades.txt*:
+
     78 45 67 12
     100 50 75 20
     82.4%
