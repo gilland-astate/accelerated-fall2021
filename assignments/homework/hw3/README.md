@@ -2,11 +2,15 @@
 
 The file selectionData.txt contains data describing five rectangles, one rectangle per line.  Each line consists of four floating-point numbers separated by a space with the first two defining the lower-left corner of the rectangle, label A in drawing, and the last two defining the upper-right corner of the rectangle, label C in drawing.  These points are always stored with the x-coordinate followed by the y-coordinate.  All rectangles will be in the orientation shown below.  For this assignment, there will be no coordinate with a value of 0.0.
 
+![Image of Rectangle with Corners Labeled](https://raw.githubusercontent.com/gilland-astate/accelerated-fall2021/main/assignments/homework/hw3/rectangle%20with%20corner%20labels.png)
+
 Write a program that will read the data for a single rectangle and determine the following:
 * If the rectangle is a square.
 * The (x, y) coordinates of corners B and D.
 * The perimeter of the rectangle.
 * The quadrant or quandrants in which the rectangle resides.  If the rectangle spans more than one quadrant, each quadrant in which any part of the rectangle resides should be listed.
+
+![Image of Cartesian Quadrants](https://raw.githubusercontent.com/gilland-astate/accelerated-fall2021/main/assignments/homework/hw3/quadrants.png)
 
 >Any floating-point value should be displayed with four decimal places.
 
