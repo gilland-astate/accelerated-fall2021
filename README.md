@@ -1,12 +1,14 @@
 # Accelerated Programming
 > ### Instructor: Steve Gilland
 > ### Email: mgilland@astate.edu
+> ### Tentative Schedule: https://github.com/gilland-astate/accelerated-fall2021/blob/main/class_notes/tentative_schedule.md
 
   
 This is a quick repository for the A-State Accelerated Programming class. Use the folders above to view further directories.
 
 ## 1/28/21
 * Exercise 6 uploaded.
+* Added Tentative Schedule
 
 ## 1/27/21
 * Exercise 4 uploaded.
