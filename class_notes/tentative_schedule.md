@@ -62,7 +62,7 @@
 ### Wednesday
 
 ### Thursday
-* End of Structured
+* End of Structured - Test
 
 ----
 ## Week 7 - 3/1/21
@@ -90,6 +90,7 @@
 ### Wednesday
 
 ### Thursday
+* Test?
 
 ----
 ## Week 10 - 3/22/21
@@ -108,7 +109,7 @@
 ### Wednesday
 
 ### Thursday
-* End of OOP
+* End of OOP - Test
 
 ----
 ## Week 12 - 4/5/21
