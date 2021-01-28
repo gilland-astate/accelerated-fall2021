@@ -9,6 +9,8 @@ This is a quick repository for the A-State Accelerated Programming class. Use th
 ## 1/28/21
 * Exercise 6 uploaded.
 * Added Tentative Schedule
+* Posted solution for ex6.
+* Added HW3
 
 ## 1/27/21
 * Exercise 4 uploaded.

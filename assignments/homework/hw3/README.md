@@ -16,7 +16,7 @@ Write a program that will read the data for a single rectangle and determine the
 
 The program should read and make these determinations for all five rectangles in the file. Please be aware that the data file used when grading will contain different values but the format will be the same.
 
- 
+> 10% HW Bonus: Find a way to continue to read in an unlimited amount of data from the file.  
 
 The following is the output that would be generated for the data file provided in the starter code:
 
@@ -70,3 +70,6 @@ The following is the output that would be generated for the data file provided i
     The rectangle lies in the following quadrant(s):
     Quadrant I
     Quadrant IV
+
+----
+*Spend enough time with pencil and paper to satisfy yourself that you truly understand the problem and can work examples by hand before starting to write program code; you cannot explain a solution to a computer if you do not understand it yourself. If you find you do not understand a problem well enough to work examples by hand, seek out input from your instructor or fellow classmates; discussion with classmates can be particularly rewarding for both parties (as long as collaboration stops here). Start as early as you can to give yourself every opportunity to think through a solution; starting close to the deadline increases pressure on you and can make it even harder to think.*

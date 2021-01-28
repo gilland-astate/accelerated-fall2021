@@ -10,11 +10,11 @@ Use the integer division and modulus operators to determine the individual digit
 
 Once the program is working correctly with three-digit integers, add the necessary to code to make the program work for four- and five-digit integers as well. If the user enters an integer that is not three, four or five digits in length, the program should display a message informing the user that the number entered is not within the range specified and end the program.
 
-```
-**Important**
+----
+### Important
 For this assignment, you must find a way to determine if the number is a palindrome using only mathematical operations. Any program that uses string or character manipulation instead of mathematical operations will not be considered a valid solution.
-```
 
+----
 > Example Output:
     
     Enter a three-, four- or five-digit positive integer: 5
