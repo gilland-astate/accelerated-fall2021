@@ -2,7 +2,7 @@
 
 Mr. N. Vestor owns several different stocks. Data regarding these stocks can be found in a plain text file. Write a program that will read specific information from the file and display that information to the screen.
 
-The stockData.txt file contains the following information:
+The **stockData.txt** file contains the following information:
 
 AMD:Advanced Micro Devices, Inc.:21.93:1.08▲5.18%:106969413:154:5  
 INTC:Intel Corporation:47.04:2.72▼5.47%:81516647:2345:25   
@@ -24,7 +24,7 @@ The pieces of data above are delimited using the : character. Each line of data 
 * a single space
 
  
-In the file hw2Stock.cpp program add code to perform the following.
+In the file **hw2Stock.cpp** program add code to perform the following.
 
 
 Use get(), getline() and ignore() as needed to read the needed pieces of data from the stock information file. Any data that is not needed should be ignored rather than read. For the first five stocks, display, to the screen, the name of the stock, the stock's value, the total number of shares owned (the number of shares owned prior to this report plus the shares purchased the day the report was generated) and display the total amount of worth (the number of shares owned multiplied by the stock's value from this report).
@@ -49,3 +49,6 @@ Use get(), getline() and ignore() as needed to read the needed pieces of data fr
     Micron Technology, Inc.                   38.96       101     3,934.96
     Western Digital Corporation               43.16       687    29,650.92
     Apple Inc.                               157.76       795   125,419.20
+
+----
+*Spend enough time with pencil and paper to satisfy yourself that you truly understand the problem and can work examples by hand before starting to write program code; you cannot explain a solution to a computer if you do not understand it yourself. If you find you do not understand a problem well enough to work examples by hand, seek out input from your instructor or fellow classmates; discussion with classmates can be particularly rewarding for both parties (as long as collaboration stops here). Start as early as you can to give yourself every opportunity to think through a solution; starting close to the deadline increases pressure on you and can make it even harder to think.*

@@ -1,0 +1,7 @@
+AMD:Advanced Micro Devices, Inc.:21.93:1.08▲5.18%:106969413:154:5 
+INTC:Intel Corporation:47.04:2.72▼5.47%:81516647:2345:25 
+MU:Micron Technology, Inc.:38.96:2.37▲6.48%:58897529:98:3 
+WDC:Western Digital Corporation:43.16:3.02▲7.52%:36281583:643:44 
+AAPL:Apple Inc.:157.76:5.06▲3.31%:31874469:739:56 
+MSFT:Microsoft Corporation:107.17:0.97▲0.91%:29183956:215:23 
+
