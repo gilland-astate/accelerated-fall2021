@@ -1,7 +1,7 @@
 # Tentative Schedule - Accelerated Programming Spring 2021
 > **Dates are subject to change**
 
-## Week 3 - 2/1/21
+## Week 4 - 2/1/21
 
 ### Tuesday
 * Review Repetition
@@ -27,7 +27,7 @@
     * From 3PM to 5PM.
 
 ----
-## Week 4 - 2/8/21
+## Week 5 - 2/8/21
 
 ### Tuesday
 * Begin Chapter 6 - Functions
@@ -46,7 +46,7 @@
     * Due @ 11:59PM on 2/12/21 - Friday
 
 ----
-## Week 5 - 2/15/21
+## Week 6 - 2/15/21
 
 ### Tuesday
 
@@ -55,7 +55,7 @@
 ### Thursday
 
 ----
-## Week 6 - 2/22/21
+## Week 7 - 2/22/21
 
 ### Tuesday
 
@@ -65,7 +65,7 @@
 * End of Structured - Test
 
 ----
-## Week 7 - 3/1/21
+## Week 8 - 3/1/21
 
 ### Tuesday
 
@@ -74,7 +74,7 @@
 ### Thursday
 
 ----
-## Week 8 - 3/8/21
+## Week 9 - 3/8/21
 
 ### Tuesday
 
@@ -83,7 +83,7 @@
 ### Thursday
 
 ----
-## Week 9 - 3/15/21
+## Week 10 - 3/15/21
 
 ### Tuesday
 
@@ -93,7 +93,7 @@
 * Test?
 
 ----
-## Week 10 - 3/22/21
+## Week 11 - 3/22/21
 
 ### Tuesday
 
@@ -102,7 +102,7 @@
 ### Thursday
 
 ----
-## Week 11 - 3/29/21
+## Week 12 - 3/29/21
 
 ### Tuesday
 
@@ -112,7 +112,7 @@
 * End of OOP - Test
 
 ----
-## Week 12 - 4/5/21
+## Week 13 - 4/5/21
 
 ### Tuesday
 
@@ -121,7 +121,7 @@
 ### Thursday
 
 ----
-## Week 13 - 4/12/21
+## Week 14 - 4/12/21
 
 ### Tuesday
 
@@ -130,7 +130,7 @@
 ### Thursday
 
 ----
-## Week 14 - 4/19/21
+## Week 15 - 4/19/21
 
 ### Tuesday
 
@@ -139,7 +139,7 @@
 ### Thursday
 
 ----
-## Week 15 - 4/26/21
+## Week 16 - 4/26/21
 
 ### Tuesday
 
