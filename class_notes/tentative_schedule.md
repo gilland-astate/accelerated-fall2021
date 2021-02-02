@@ -7,7 +7,7 @@
 * Review Repetition
 * Exercises 7 & 8
 * Homework 4 - Repetition
-    * Due @ 10:59PM on 2/4/21 - Thursday
+    * Due @ 10:59PM on 2/4/21 - Friday
 
 ### Wednesday
 * Review Material for test.
