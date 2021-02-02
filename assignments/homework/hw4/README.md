@@ -17,3 +17,33 @@ The third pass of the count-controlled loop, with \Delta = 0.001, will refine th
 The accuracy of the C++ type double is limited to approximately fifteen digits in the current implementation; note that these include digits to both sides of the decimal position. Warn the user of the program about this limitation in the prompt for the desired accuracy at the beginning of the program.
 
 On each pass of the inner event-controlled loops, display the current value of \Delta, the current approximation to the square root, and the error associated with the approximation. The error is the difference between the number for which the square root is being approximated and the square of the approximation. Sample results for the square root of 7 to four decimal places follow. 
+
+    Find the square root of 7 to 4 decimal places.
+                approx          
+        delta   sq root     error
+        -----   -------     -----
+                2.5000
+        0.1000    2.6000    0.2400
+        0.1000    2.7000   -0.2900
+
+        0.0100    2.6900   -0.2361
+        0.0100    2.6800   -0.1824
+        0.0100    2.6700   -0.1289
+        0.0100    2.6600   -0.0756
+        0.0100    2.6500   -0.0225
+        0.0100    2.6400    0.0304
+
+        0.0010    2.6410    0.0251
+        0.0010    2.6420    0.0198
+        0.0010    2.6430    0.0146
+        0.0010    2.6440    0.0093
+        0.0010    2.6450    0.0040
+        0.0010    2.6460   -0.0013
+
+        0.0001    2.6459   -0.0008
+        0.0001    2.6458   -0.0003
+        0.0001    2.6457    0.0003
+
+    The square root of 7 to 4 decimal places is 2.6457.
+    The approximation 2.6457 squared is 6.9997.
+    The actual square root of 7 to 5 decimal places is 2.64575.
