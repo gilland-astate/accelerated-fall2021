@@ -4,6 +4,7 @@
 
 * 1.2
     * Hardware Components
+    * System Software vs User/Application Software
 * 1.3
     * Definitions
     * High-level vs Low-level
@@ -36,6 +37,7 @@
 * 2.8
     * #include needed
 * 2.9
+    * Size of float & double
     * Type represented by floating-point literals
 * 2.10
     * Bool integer representation
@@ -48,8 +50,6 @@
     * Be able to define, assign, or initialize all types
 * 2.13
     * Definition
-    * Debugging issues dealing with scope
-    * How we can control scope -- Hint: { }
 * 2.14
     * Unary vs Binary vs ternary
     * How Arithmetic operators work and how to use them.
@@ -75,16 +75,18 @@
 * 3.3
     * Definitions
     * When we need type conversion
-    * Explicit vs Implicit (Coercion)
+    * Explicit (static_cast) vs Implicit (Coercion)
     * Coercion Rules & Hierarchy
 * 3.4
     * Definitions
     * Able to identify errors caused by Overflow/Underflow
 * 3.5
-    * See 3.2
+    * See 3.3
+    * How-to cast explicitly
 * 3.6
     * Know the combined assignment operators and how they work
 * 3.7
+    * Know what to include
     * How to properly format text using all of table 3-12 and how they work
 * 3.8
     * How get() and getline() work.
@@ -132,4 +134,36 @@
 * 4.15
     * Local vs block scope
     * Knowing when a variable is or isn't in scope and defining variable with the same name
-    
+
+## Chapter 5
+
+* 5.1
+    * How to use increment and decrement operators
+    * Postfix and prefix and how they affect the number returned
+* 5.2
+    * Definition of Loop
+    * How to properly write and evaluate while control structures
+    * Infinite loops and how to find and stop them from happening
+* 5.3 
+    * Reasoning for using a while loop for input validation versus an if control structure
+    * How to use a while statement for input validation
+* 5.4
+    * Definitions
+    * Initialize before loop
+* 5.5
+    * How to properly write and evaluate do-while control structures
+    * Posttest versus pretest loops
+* 5.6
+    * How to properly write and evaluate for control structures
+* 5.8
+    * Sentinel definition
+    * Special value can't be confused with valid value
+* 5.9
+    * Know when to use each loop and when each are appropriate.
+    * If using a fo loop make sure you are taking advantage of it.
+    * If you have initialization as well as an update make sure you use a for loop.
+    * Again posttest versus pretest.
+* 5.10
+    * Know the "Nested Loops - Notes" slide
+* 5.11
+    * Make sure you know how to use files. (Review ex4 & ex5 if help is needed)
