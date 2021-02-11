@@ -6,6 +6,9 @@
   
 This is a quick repository for the A-State Accelerated Programming class. Use the folders above to view further directories.
 
+## 2/11/21
+* Exercise 9 added.
+
 ## 2/2/21
 * Exercise 7 & 8 added.
 * Added HW4
